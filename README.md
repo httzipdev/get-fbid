@@ -4,4 +4,4 @@
 #### Ex:
 <li>https://getfbid.com/api/?url=https://wwww.facebook.com/httzip =>User type</li> 
 <li>https://getfbid.com/api/?url=https://wwww.facebook.com/facebook =>Fanpage type</li> 
-<li>https://getfbid.com/api/?url=https://wwww.facebook.com/group/j2team.community =>Group type</li> 
+<li>https://getfbid.com/api/?url=https://wwww.facebook.com/groups/j2team.community =>Group type</li> 
